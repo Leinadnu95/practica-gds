@@ -1,1 +1,1 @@
-# practica-gds
+# Practica Gestios Desarrollo Software
