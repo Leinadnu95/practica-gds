@@ -1,1 +1,1 @@
-# Practica Gestios Desarrollo Software
+# Practica Gestion Desarrollo Software
